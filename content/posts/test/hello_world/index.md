@@ -9,6 +9,13 @@ series: ["test"]
 series_order: 1
 ---
 {{< katex >}}
+{{< typeit
+  tag=h2
+  loop=true
+>}}
+Hello world!
+{{< /typeit >}}
+
  an example to get you started
 
 ## This is a heading
@@ -50,7 +57,7 @@ int main() {
 }
 ```
 
-```python {cmd=python}
+```python
 print('hello')
 ```
 
