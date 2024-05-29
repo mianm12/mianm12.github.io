@@ -1,5 +1,5 @@
 ---
-title: "Blowfish"
+title: "Welcome to my blog"
 description: "homepage"
 ---
 {{< typeit

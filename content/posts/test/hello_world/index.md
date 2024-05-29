@@ -1,6 +1,7 @@
 ---
 title: "hello world"
 date: 2024-05-25
+lastmod: 2024-05-30
 draft: false
 description: "a description"
 categories: ["test"]

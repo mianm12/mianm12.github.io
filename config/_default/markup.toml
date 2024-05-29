@@ -7,6 +7,7 @@
 
 [highlight]
   noClasses = false
+  lineNos = true  # Enable line numbers in code blocks
 
 [tableOfContents]
   startLevel = 2
