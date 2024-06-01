@@ -6,7 +6,7 @@ tags: ["pwn", "rop", "stack overflow"]
 series: ["rop"]
 series_order: 1
 ---
-返回到文本段（Return-to-text segment）攻击，这是一种利用程序中的可执行代码段（text segment）来执行恶意操作的攻击。这种技术有几个基本前提：
+返回到文本段（Return to text segment）攻击，这是一种利用程序中的可执行代码段（text segment）来执行恶意操作的攻击。这种技术有几个基本前提：
 
 - 程序中的某些代码位置是可预测的，同时在不同运行时是固定的
 - 只需要利用程序的现有代码，无需注入新的代码
