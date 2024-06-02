@@ -2,6 +2,7 @@
 title: "ret2text"
 date: 2024-06-01
 draft: false
+categories: ["pwn"]
 tags: ["pwn", "rop", "stack overflow"]
 series: ["rop"]
 series_order: 1
