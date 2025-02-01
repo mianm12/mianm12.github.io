@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Example on Blowfish</title><link>https://www.quietus.icu/en/tags/example/</link><description>Recent content in Example on Blowfish</description><generator>Hugo -- gohugo.io</generator><language>en</language><copyright>© 2025 mianm</copyright><lastBuildDate>Sat, 25 May 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://www.quietus.icu/en/tags/example/index.xml" rel="self" type="application/rss+xml"/><item><title>hello world</title><link>https://www.quietus.icu/en/posts/test/hello_world/</link><pubDate>Sat, 25 May 2024 00:00:00 +0000</pubDate><guid>https://www.quietus.icu/en/posts/test/hello_world/</guid><description>&lt;p>
+&lt;h2 id="typeit-28dd7eea87250a5e9e0fea07d34833aa">&lt;/h2>
+&lt;script>
+document.addEventListener("DOMContentLoaded", function () {
+new TypeIt("#typeit-28dd7eea87250a5e9e0fea07d34833aa", {
+strings: ["","Hello world!",""],
+speed: 100 ,
+lifeLike: false ,
+startDelay: 0 ,
+breakLines: true ,
+waitUntilVisible: true ,
+loop: true
+}).go();
+});
+&lt;/script>&lt;/p></description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.quietus.icu/posts/test/hello_world/featured.png"/></item></channel></rss>
