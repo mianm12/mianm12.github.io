@@ -6,6 +6,7 @@ categories: ["pwn"]
 tags: ["pwn", "rop", "stack overflow"]
 series: ["rop"]
 series_order: 2
+summary: 通过栈溢出注入shellcode劫持程序控制流。
 ---
 返回到 shellcode（return to shellcode）攻击。主要运用攻击者在堆栈上写入的 shellcode，然后覆盖程序的返回地址，控制程序的控制流返回到注入的 shellcode，从而执行恶意代码。通过以下代码为例：
 

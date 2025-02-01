@@ -6,6 +6,7 @@ categories: ["pwn"]
 tags: ["pwn", "rop", "stack overflow"]
 series: ["rop"]
 series_order: 1
+summary: 通过栈溢出覆盖返回地址，跳转到text段中已存在的函数，从而劫持程序的控制流。
 ---
 返回到文本段（Return to text segment）攻击，这是一种利用程序中的可执行代码段（text segment）来执行恶意操作的攻击。这种技术有几个基本前提：
 

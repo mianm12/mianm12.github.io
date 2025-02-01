@@ -8,9 +8,9 @@ defaultContentLanguage = "zh-cn"
 
 # pluralizeListTitles = "true" # hugo function useful for non-english languages, find out more in  https://gohugo.io/getting-started/configuration/#pluralizelisttitles
 
+hasCJKLanguage = true
 enableRobotsTXT = true
 summaryLength = 30 # summaryLength doesn't work well with CJK content
-hasCJKLanguage = true
 
 buildDrafts = false
 buildFuture = false
