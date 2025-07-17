@@ -12,4 +12,5 @@ waitUntilVisible: true ,
 loop: true
 }).go();
 });
-&lt;/script>&lt;/p></description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.quietus.icu/posts/test/hello_world/featured.png"/></item></channel></rss>
+&lt;/script>
+&lt;/p></description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.quietus.icu/posts/test/hello_world/featured.png"/></item></channel></rss>
