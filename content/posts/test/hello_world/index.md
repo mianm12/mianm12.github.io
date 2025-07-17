@@ -19,13 +19,13 @@ Hello world!
 
  an example to get you started
 
-## This is a heading
+## 这是一个标题
 
-### This is a subheading
+### 这是一个副标题
 
-#### This is a subsubheading
+#### 这是一个副标题
 
-##### This is a subsubsubheading
+##### 这是一个子标题
 
 ~~This is a paragraph~~ with **bold** and *italic* text.
 `Check` more at [Blowfish documentation](https://blowfish.page/)
