@@ -1,16 +1,18 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Welcome to my blog on Blowfish</title><link>https://www.quietus.icu/</link><description>Recent content in Welcome to my blog on Blowfish</description><generator>Hugo -- gohugo.io</generator><language>zh-cn</language><copyright>© 2025 mianm</copyright><lastBuildDate>Sun, 02 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://www.quietus.icu/index.xml" rel="self" type="application/rss+xml"/><item><title>ret2shellcode</title><link>https://www.quietus.icu/posts/pwn/stack_overflow/ret2shellcode/</link><pubDate>Sun, 02 Jun 2024 00:00:00 +0000</pubDate><guid>https://www.quietus.icu/posts/pwn/stack_overflow/ret2shellcode/</guid><description>通过栈溢出注入shellcode劫持程序控制流。</description></item><item><title>ret2text</title><link>https://www.quietus.icu/posts/pwn/stack_overflow/ret2text/</link><pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate><guid>https://www.quietus.icu/posts/pwn/stack_overflow/ret2text/</guid><description>通过栈溢出覆盖返回地址，跳转到text段中已存在的函数，从而劫持程序的控制流。</description></item><item><title>hello world</title><link>https://www.quietus.icu/posts/test/hello_world/</link><pubDate>Sat, 25 May 2024 00:00:00 +0000</pubDate><guid>https://www.quietus.icu/posts/test/hello_world/</guid><description>&lt;p&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Welcome to my blog on Blowfish</title><link>https://www.quietus.icu/</link><description>Recent content in Welcome to my blog on Blowfish</description><generator>Hugo -- gohugo.io</generator><language>zh-cn</language><copyright>Copyright © 2026 mianm · All rights reserved.</copyright><lastBuildDate>Wed, 04 Feb 2026 15:44:00 +0800</lastBuildDate><atom:link href="https://www.quietus.icu/index.xml" rel="self" type="application/rss+xml"/><item><title>Day 01 - 数组 Part 01</title><link>https://www.quietus.icu/posts/algo/keetcoder/day-01-array-part-part-01/</link><pubDate>Wed, 04 Feb 2026 11:56:24 +0800</pubDate><guid>https://www.quietus.icu/posts/algo/keetcoder/day-01-array-part-part-01/</guid><description>本文梳理数组的核心特性（0 索引、内存连续、不可删除只能覆盖），并讲解三道 LeetCode 数组题：二分查找、移除元素、以及有序数组平方。包含暴力与优化思路（快慢指针/双指针）、C++ 代码示例及时间与空间复杂度总结。</description></item><item><title>ret2shellcode</title><link>https://www.quietus.icu/posts/pwn/stack_overflow/ret2shellcode/</link><pubDate>Sun, 02 Jun 2024 00:00:00 +0000</pubDate><guid>https://www.quietus.icu/posts/pwn/stack_overflow/ret2shellcode/</guid><description>通过栈溢出注入shellcode劫持程序控制流。</description></item><item><title>ret2text</title><link>https://www.quietus.icu/posts/pwn/stack_overflow/ret2text/</link><pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate><guid>https://www.quietus.icu/posts/pwn/stack_overflow/ret2text/</guid><description>通过栈溢出覆盖返回地址，跳转到text段中已存在的函数，从而劫持程序的控制流。</description></item><item><title>hello world</title><link>https://www.quietus.icu/posts/test/hello_world/</link><pubDate>Sat, 25 May 2024 00:00:00 +0000</pubDate><guid>https://www.quietus.icu/posts/test/hello_world/</guid><description>&lt;p&gt;
+
 &lt;h2 id="typeit-0998b4c1522650664385c9fece4c0b5f"&gt;&lt;/h2&gt;
+
 &lt;script&gt;
-document.addEventListener("DOMContentLoaded", function () {
-new TypeIt("#typeit-0998b4c1522650664385c9fece4c0b5f", {
-strings: ["","Hello world!",""],
-speed: 100 ,
-lifeLike: false ,
-startDelay: 0 ,
-breakLines: true ,
-waitUntilVisible: true ,
-loop: true
-}).go();
-});
+ document.addEventListener("DOMContentLoaded", function () {
+ new TypeIt("#typeit-0998b4c1522650664385c9fece4c0b5f", {
+ strings: ["","Hello world!",""],
+ speed: 100 ,
+ lifeLike: false ,
+ startDelay: 0 ,
+ breakLines: true ,
+ waitUntilVisible: true ,
+ loop: true 
+ }).go();
+ });
 &lt;/script&gt;
 &lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.quietus.icu/posts/test/hello_world/featured.png"/></item></channel></rss>
